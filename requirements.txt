@@ -1,0 +1,9 @@
+# cat requirements.txt 
+setuptools>=57.0.0
+pyspark>=3.1.2
+pygeohash>=1.2.0
+requests>=2.25.1
+python-dotenv>=0.20.0
+opencage>=1.11.1
+pytest>=7.0.1
+backoff>=1.11.1
